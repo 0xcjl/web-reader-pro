@@ -1,3 +1,11 @@
+---
+name: web-reader-pro
+description: "Advanced web content extraction skill for OpenClaw using multi-tier fallback strategy (Jina → Scrapling → WebFetch) with intelligent routing, caching, quality scoring, and domain learning. Use when: reading article content, extracting web page text, scraping dynamic JS-heavy pages, or fetching WeChat official account articles."
+metadata:
+  author: 0xcjl
+  version: "1.0.0"
+---
+
 # Web Reader Pro - OpenClaw Skill
 
 ## Overview
